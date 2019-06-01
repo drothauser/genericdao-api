@@ -4,16 +4,17 @@
 	<modelVersion>4.0.0</modelVersion>
 	<parent>
 		<groupId>net.rothsmith</groupId>
-		<artifactId>rothsmith-common</artifactId>
+		<artifactId>rothsmith-parent</artifactId>
 		<version>1.0.0-SNAPSHOT</version>
 	</parent>
 	<artifactId>genericdao-api</artifactId>
-	<version>${VERSION_NUMBER}</version>
+	<version>${revision}${changelist}</version>
 
 	<name>Generic DAO API</name>
 
 	<properties>
-		<VERSION_NUMBER>1.0.0-SNAPSHOT</VERSION_NUMBER>
+		<revision>1.0.0</revision>
+		<changelist>-SNAPSHOT</changelist>
 		<checkstyle.config>${basedir}/checkstyle_checks.xml</checkstyle.config>
 		<pmd.rulesfile>${basedir}/pmdrules.xml</pmd.rulesfile>
 	</properties>
