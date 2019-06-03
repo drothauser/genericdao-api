@@ -9,13 +9,13 @@
   </parent>
   <groupId>net.rothsmith</groupId>
   <artifactId>genericdao-api</artifactId>
-  <version>1.0.0</version>
+  <version>1.0.0.1</version>
   <name>Generic DAO API</name>
   <inceptionYear>2014</inceptionYear>
   <scm>
-    <connection>scm:git:git@github.com:drothauser/generic-dao.git</connection>
-    <developerConnection>scm:git:git@github.com:drothauser/generic-dao.git</developerConnection>
-    <url>https://github.com/drothauser/generic-dao.git</url>
+    <connection>scm:git:git@github.com:drothauser/generic-api.git</connection>
+    <developerConnection>scm:git:git@github.com:drothauser/generic-api.git</developerConnection>
+    <url>https://github.com/drothauser/generic-api.git</url>
   </scm>
   <ciManagement>
     <system>Jenkins</system>

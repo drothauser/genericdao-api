@@ -21,9 +21,9 @@
 
 	<inceptionYear>2014</inceptionYear>
 	<scm>
-		<connection>scm:git:git@github.com:drothauser/generic-dao.git</connection>
-		<developerConnection>scm:git:git@github.com:drothauser/generic-dao.git</developerConnection>
-		<url>https://github.com/drothauser/generic-dao.git</url>
+		<connection>scm:git:git@github.com:drothauser/generic-api.git</connection>
+		<developerConnection>scm:git:git@github.com:drothauser/generic-api.git</developerConnection>
+		<url>https://github.com/drothauser/generic-api.git</url>
 		<tag>HEAD</tag>
 	</scm>
 	<ciManagement>
