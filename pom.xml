@@ -5,7 +5,7 @@
 	<parent>
 		<groupId>net.rothsmith</groupId>
 		<artifactId>rothsmith-parent</artifactId>
-		<version>1.0.0-SNAPSHOT</version>
+		<version>1.0.0</version>
 	</parent>
 	<artifactId>genericdao-api</artifactId>
 	<version>${revision}${changelist}</version>
@@ -14,8 +14,6 @@
 
 	<properties>
 		<revision>1.0.0</revision>
-		<rothsmith-dependency-version-dev>(,${revision}-SNAPSHOT]</rothsmith-dependency-version-dev>
-		<rothsmith-dependency-version-release>(,${revision}-][${revision}-,)</rothsmith-dependency-version-release>
 		<checkstyle.config>${basedir}/checkstyle_checks.xml</checkstyle.config>
 		<pmd.rulesfile>${basedir}/pmdrules.xml</pmd.rulesfile>
 	</properties>
