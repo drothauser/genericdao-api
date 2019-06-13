@@ -9,7 +9,7 @@
   </parent>
   <groupId>net.rothsmith</groupId>
   <artifactId>genericdao-api</artifactId>
-  <version>1.0.0-100</version>
+  <version>1.0.0-SNAPSHOT</version>
   <name>Generic DAO API</name>
   <inceptionYear>2014</inceptionYear>
   <scm>
