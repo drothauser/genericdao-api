@@ -3,5 +3,5 @@
  * 
  * @author drothauser
  */
-package com.rothsmith.dao;
+package net.rothsmith.dao;
 

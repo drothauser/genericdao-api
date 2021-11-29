@@ -1,7 +1,7 @@
 /*
  * Copyright (c) 2009 Rothsmith, LLC, All rights reserved.
  */
-package com.rothsmith.dao;
+package net.rothsmith.dao;
 
 import java.util.List;
 import java.util.Map;

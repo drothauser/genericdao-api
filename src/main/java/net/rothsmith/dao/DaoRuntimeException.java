@@ -1,7 +1,7 @@
 /*
  * (c) 2015 Rothsmith, LLC All Rights Reserved.
  */
-package com.rothsmith.dao;
+package net.rothsmith.dao;
 
 /**
  * @author drothauser
